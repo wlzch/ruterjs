@@ -19,5 +19,8 @@
     "main": "./lib/index.js",
     "engines": {
         "node": "0.8.x"
+    },
+    "scripts": {
+        "test": "mocha --recursive test/"
     }
 }
