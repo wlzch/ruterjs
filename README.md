@@ -1,3 +1,5 @@
+![ruter](https://secure.travis-ci.org/wlzch/ruterjs.png)
+
 # Ruter.js
 Ruter is a routing extension for [Express](http://expressjs.com) which is designed to be extensible.
 `Warning: this package is not stable yet.`
