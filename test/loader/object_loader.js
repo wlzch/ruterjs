@@ -1,13 +1,6 @@
 var ObjectLoader, routes, ruter, underscore;
-
 require('should');
-
-underscore = require('underscore');
-
-ruter = require('../../lib/index');
-
 routes = require('../fixtures/routes');
-
 ObjectLoader = require('../../lib/loader/object_loader');
 
 describe('ObjectLoader', function() {
